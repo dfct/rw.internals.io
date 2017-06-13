@@ -1,0 +1,47 @@
+# Site settings
+title: rw | io
+description: "Building, breaking, learning"
+baseurl: "" 
+url: "https://rw.internals.io" 
+
+# User settings
+username: rw | io
+user_title: Ian Bannerman
+email: ian@internals.io
+twitter_username: dfct_
+github_username:  dfct
+profile_picture: /assets/img/profile.png
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /test/:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# projects in header index
+projects:
+  - name: Verrify, for antifragile software
+    url: https://verrify.com
+  - name: Testing Bias, a software testing podcast
+    url: https://www.testingbias.com
+  - name: TrueFramelessWindow, a Qt desktop app
+    url: https://github.com/dfct/TrueFramelessWindow 
+
+# navigation in header index
+navigation:
+  - name: About
+    url: /about
+  - name: Posts
+    url: /posts
+  - name: Tags
+    url: /tags
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
