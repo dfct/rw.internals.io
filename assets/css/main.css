@@ -299,8 +299,10 @@ h1,h2,h3,h4 {
     height: 15px
 }
 
-#heart {
-    color: #e41515
+.content-box {
+    position: relative;
+    margin-top: 40px;
+    min-height: 780px;
 }
 
 *,*:before,*:after {
