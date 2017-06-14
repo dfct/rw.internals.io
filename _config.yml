@@ -27,7 +27,7 @@ compress_html:
 
 # projects in header index
 projects:
-  - name: Verrify, for antifragile software
+  - name: Verrify, a software testing startup
     url: https://verrify.com
   - name: Testing Bias, a software testing podcast
     url: https://www.testingbias.com
