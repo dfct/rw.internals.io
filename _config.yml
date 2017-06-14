@@ -15,7 +15,7 @@ profile_picture: /assets/img/profile.png
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /test/:title/
+permalink: /post/:title/
 
 
 # html minify
