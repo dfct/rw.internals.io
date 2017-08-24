@@ -27,7 +27,7 @@ A few other quotes from the book & the notes I wrote down alongside them:
 > <br/>
 > Asking for examples is one of the most powerful ways to show curiosity and interest and concern. More importantly it clarifies general statements. An open, follow up question is incredibly effective when problem solving.
 
-Don't jump in with an answer until you understand what is being asked. Put another way, don't assume that the question that was asked was the [right|wrong] question. I frequently don't answer the question that was asked as I've guessed at what they're seeking and answered *that* instead. Rather, ask what they're seeking and go from there, e.g., "Can you tell me how to defragment this drive?" -> "Sure, what are you solving for?" 
+Don't jump in with an answer until you understand what is being asked. Put another way, don't assume that the question that was asked was the [right/wrong] question. I frequently don't answer the question that was asked as I've guessed at what they're seeking and answered *that* instead. Rather, ask what they're seeking and go from there, e.g., "Can you tell me how to defragment this drive?" -> "Sure, what are you solving for?" 
 
 And finally:
 
