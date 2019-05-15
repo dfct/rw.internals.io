@@ -31,8 +31,6 @@ projects:
     url: https://verrify.com
   - name: Testing Bias, a software testing podcast
     url: https://www.testingbias.com
-  - name: TrueFramelessWindow, a Qt desktop app
-    url: https://github.com/dfct/TrueFramelessWindow 
 
 # navigation in header index
 navigation:
